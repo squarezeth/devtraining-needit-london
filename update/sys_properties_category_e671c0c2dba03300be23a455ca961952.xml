@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-02 16:36:10</sys_created_on>
+        <sys_id>e671c0c2dba03300be23a455ca961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_e671c0c2dba03300be23a455ca961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-02 16:36:10</sys_updated_on>
+        <title><![CDATA[<p style="text-align: center;"><span style="font-size: 24pt;">Ceva de vis!</span></p>
+<p style="text-align: left;"> </p>
+<p style="text-align: left;">Asta se intampla cand vrei sa fii mare sef dar de fapt si de drept esti un nimenea. jajaja </p>
+<p style="text-align: center;"><img style="align: baseline;" title="" src="10Things02a.pngx" alt="" width="330" height="266" align="baseline" border="" hspace="" vspace="" /></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=e671c0c2dba03300be23a455ca961952"/>
+</record_update>
